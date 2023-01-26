@@ -8,4 +8,4 @@ Data can be drilled down by:
 - Average weekly new cases and deaths
 
 
-## [fdvd](https://github.com/solivaresdelamora/psi.git)
+## [fdvd](https://solivaresdelamora.github.io/psi/)
