@@ -1,5 +1,11 @@
 # Sofia Olivares
 
+# Projects:
+
+### [Clinic Outpatient Summary](https://github.com/solivaresdelamora/Outpatient_summary/blob/23fe21877b1f6832d8d0217b820dbf6e96bdba8e/outpatient_summary.ipynb)
+This is an exploratory project which summarizes the number of visits and diagnoses per patient in a clinic. You can refer to the "outpatients_deidentified.csv" file for the raw data and the "outpatient_summary.ipynb" for the data summary.
+
+
 # [Visualization Projects](https://public.tableau.com/app/profile/sofia.olivares)
 
 ### [Project 1: 2020 U.S. COVID-19 Hot Spots](https://solivaresdelamora.github.io/COVID-19/)
