@@ -6,7 +6,7 @@
 This is an exploratory project which summarizes the number of visits and diagnoses per patient in a clinic. You can refer to the "outpatients_deidentified.csv" file for the raw data and the "outpatient_summary.ipynb" for the data summary.
 
 
-# [Visualization Projects](https://public.tableau.com/app/profile/sofia.olivares)
+## [Visualization Projects](https://public.tableau.com/app/profile/sofia.olivares)
 
 ### [Project 1: 2020 U.S. COVID-19 Hot Spots](https://solivaresdelamora.github.io/COVID-19/)
 This dashboard captures the COVID-19 hot spots in the U.S. and Puerto Rico as of September 2020
