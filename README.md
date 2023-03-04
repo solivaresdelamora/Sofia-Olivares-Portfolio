@@ -19,4 +19,4 @@ Data can be drilled down by:
 The goal of this dashboard is to track the monthly quality metrics (patient safety indicators) at a hospital to determine where resources should be allocated to stay     within the target in order to improve the hospital's quality ranking. The data were obtained from Chief Quality Officer at a mock hospital. 
 The dashboard created summarizes the data based on overall performance and monthly breakdown by metric. It showcases the metrics that have already exceeded the target   as well as those that are projected to exceed it within the year. This dashboard also captures trends for each metric which can be monitored to identify possible         events  to prevent incidents from happening.
 
-x(https://community.powerbi.com/t5/Themes-Gallery/Simplifica/td-p/1116678)
+[x](https://community.powerbi.com/t5/Themes-Gallery/Simplifica/td-p/1116678)
